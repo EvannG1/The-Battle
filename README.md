@@ -51,3 +51,9 @@ _Enseignant vacataire à l'Université de Lorraine_
 - IUT Nancy-Charlemagne (LP Ciasie)
 
 - Institut des Sciences du Digital (Masters Sciences Cognitives)
+
+
+Membres du projet :
+
+- GEHIN Evann (evann.gehin@outlook.fr)
+- KLOPFENSTEIN Vivien (klop.vivien@gmail.com)
